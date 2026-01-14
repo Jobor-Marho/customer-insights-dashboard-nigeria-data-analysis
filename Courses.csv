@@ -1,0 +1,11 @@
+CourseID,CourseName,Category,CoursePrice
+CRS01,Excel for Beginners,Data Analysis,15000
+CRS02,Python Programming,Programming,18000
+CRS03,Power BI Fundamentals,Data Visualization,25000
+CRS04,Advanced Excel Techniques,Data Analysis,20000
+CRS05,SQL for Data Analysis,Database,17000
+CRS06,Data Analytics Bootcamp,Data Analysis,30000
+CRS07,Machine Learning Basics,Programming,35000
+CRS08,Digital Marketing Strategy,Marketing,22000
+CRS09,Web Development with Django,Programming,40000
+CRS10,Business Intelligence with Tableau,Data Visualization,28000
